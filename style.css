@@ -1,0 +1,26 @@
+
+body {
+    font-family: 'Montaga', serif;
+    background-color: #ffe;
+    color: #430;
+}
+
+div#content {
+    width: 80%;
+    margin: 11px auto 10px;
+}
+
+article footer {
+    text-align: right;
+    font-size: smaller;
+    font-style: italic;
+}
+
+h1, h2 {
+    font-family: 'Montserrate Alternates', sans-serif;
+    font-weight: 700;
+}
+h3, h4 {
+    font-family: 'Montserrate Alternates', sans-serif;
+    font-weight: 400;
+}
